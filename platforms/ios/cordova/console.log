@@ -1,0 +1,148 @@
+2015-05-06 17:36:50.127 levoApp[4494:1326308] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/A1112230-4530-4E42-88C1-C00E2C440089/Library/Cookies/Cookies.binarycookies
+2015-05-06 17:36:50.212 levoApp[4494:1326308] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 17:36:50.212 levoApp[4494:1326308] Multi-tasking -> Device: YES, App: YES
+2015-05-06 17:36:50.226 levoApp[4494:1326308] Unlimited access to network resources
+2015-05-06 17:36:50.285 levoApp[4494:1326308] [CDVTimer][keyboard] 0.056028ms
+2015-05-06 17:36:50.286 levoApp[4494:1326308] [CDVTimer][TotalPluginStartup] 0.187039ms
+2015-05-06 17:36:50.489 levoApp[4494:1326308] Resetting plugins due to page load.
+2015-05-06 17:36:50.594 levoApp[4494:1326308] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/FA15999C-A2F6-48CB-8297-AC354AAA0BED/levoApp.app/www/index.html#/app/playlists
+2015-05-06 17:37:03.241 levoApp[4494:1326308] Doing login [object Object]
+2015-05-06 17:43:44.917 levoApp[4867:1370999] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/AD9D818B-7129-4B51-8B95-ED391FCC0753/Library/Cookies/Cookies.binarycookies
+2015-05-06 17:43:44.992 levoApp[4867:1370999] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 17:43:44.993 levoApp[4867:1370999] Multi-tasking -> Device: YES, App: YES
+2015-05-06 17:43:44.994 levoApp[4867:1370999] Unlimited access to network resources
+2015-05-06 17:43:45.051 levoApp[4867:1370999] [CDVTimer][keyboard] 0.042021ms
+2015-05-06 17:43:45.051 levoApp[4867:1370999] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-05-06 17:43:45.125 levoApp[4867:1370999] Resetting plugins due to page load.
+2015-05-06 17:43:45.744 levoApp[4867:1370999] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/BCE34F29-DD5B-43FC-8140-801215455234/levoApp.app/www/index.html#/app/playlists
+2015-05-06 17:43:50.098 levoApp[4867:1370999] Doing login [object Object]
+2015-05-06 17:44:03.001 levoApp[4867:1370999] Doing login [object Object]
+2015-05-06 17:57:34.921 levoApp[5253:1425809] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/A1960631-C899-49A7-8878-5C6207C636CB/Library/Cookies/Cookies.binarycookies
+2015-05-06 17:57:34.983 levoApp[5253:1425809] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 17:57:34.984 levoApp[5253:1425809] Multi-tasking -> Device: YES, App: YES
+2015-05-06 17:57:34.988 levoApp[5253:1425809] Unlimited access to network resources
+2015-05-06 17:57:35.047 levoApp[5253:1425809] [CDVTimer][keyboard] 0.047982ms
+2015-05-06 17:57:35.047 levoApp[5253:1425809] [CDVTimer][TotalPluginStartup] 0.177026ms
+2015-05-06 17:57:35.098 levoApp[5253:1425809] Resetting plugins due to page load.
+2015-05-06 17:57:35.262 levoApp[5253:1425809] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/B606609E-7233-400C-A061-CEEA32404C55/levoApp.app/www/index.html#/app/playlists
+2015-05-06 17:59:19.659 levoApp[5647:1440914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/3FB569D2-F1B9-4747-AB61-748BB2207514/Library/Cookies/Cookies.binarycookies
+2015-05-06 17:59:19.719 levoApp[5647:1440914] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 17:59:19.719 levoApp[5647:1440914] Multi-tasking -> Device: YES, App: YES
+2015-05-06 17:59:19.729 levoApp[5647:1440914] Unlimited access to network resources
+2015-05-06 17:59:19.788 levoApp[5647:1440914] [CDVTimer][keyboard] 0.046015ms
+2015-05-06 17:59:19.789 levoApp[5647:1440914] [CDVTimer][TotalPluginStartup] 0.200033ms
+2015-05-06 17:59:19.840 levoApp[5647:1440914] Resetting plugins due to page load.
+2015-05-06 17:59:19.972 levoApp[5647:1440914] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/42AA6FFD-E787-4F4E-8D63-6FB71281BE5B/levoApp.app/www/index.html#/app/playlists
+2015-05-06 18:00:55.404 levoApp[5848:1455065] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/50A3CF46-8A8C-409E-BC7E-D809F8447347/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:00:55.468 levoApp[5848:1455065] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:00:55.468 levoApp[5848:1455065] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:00:55.479 levoApp[5848:1455065] Unlimited access to network resources
+2015-05-06 18:00:55.538 levoApp[5848:1455065] [CDVTimer][keyboard] 0.041008ms
+2015-05-06 18:00:55.538 levoApp[5848:1455065] [CDVTimer][TotalPluginStartup] 0.165999ms
+2015-05-06 18:00:55.584 levoApp[5848:1455065] Resetting plugins due to page load.
+2015-05-06 18:00:55.712 levoApp[5848:1455065] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/B71B65D5-9F9B-4396-B4AA-278388310CD9/levoApp.app/www/index.html#/app/playlists
+2015-05-06 18:01:36.007 levoApp[6046:1461409] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/D69437F2-49B7-4280-88FD-2CBBC5EC331E/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:01:36.060 levoApp[6046:1461409] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:01:36.060 levoApp[6046:1461409] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:01:36.069 levoApp[6046:1461409] Unlimited access to network resources
+2015-05-06 18:01:36.127 levoApp[6046:1461409] [CDVTimer][keyboard] 0.041008ms
+2015-05-06 18:01:36.127 levoApp[6046:1461409] [CDVTimer][TotalPluginStartup] 0.189006ms
+2015-05-06 18:01:36.178 levoApp[6046:1461409] Resetting plugins due to page load.
+2015-05-06 18:01:36.311 levoApp[6046:1461409] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/587D458E-2410-4DF4-85EE-6F085199F1FC/levoApp.app/www/index.html#/app/playlists
+2015-05-07 10:23:04.667 levoApp[1296:94935] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/57FC7177-07B1-4064-AEBB-D0AA0A176E83/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:23:04.755 levoApp[1296:94935] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:23:04.755 levoApp[1296:94935] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:23:04.764 levoApp[1296:94935] Unlimited access to network resources
+2015-05-07 10:23:04.822 levoApp[1296:94935] [CDVTimer][keyboard] 0.045002ms
+2015-05-07 10:23:04.822 levoApp[1296:94935] [CDVTimer][TotalPluginStartup] 0.185966ms
+2015-05-07 10:23:04.869 levoApp[1296:94935] Resetting plugins due to page load.
+2015-05-07 10:23:05.019 levoApp[1296:94935] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/58F5A9B3-84BD-486B-9919-CD8473540A44/levoApp.app/www/index.html#/app/playlists
+2015-05-07 10:27:34.784 levoApp[1735:113180] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/573CEA79-1C8B-4B2A-9DC8-66AD3B66C7E0/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:27:34.845 levoApp[1735:113180] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:27:34.845 levoApp[1735:113180] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:27:34.847 levoApp[1735:113180] Unlimited access to network resources
+2015-05-07 10:27:34.905 levoApp[1735:113180] [CDVTimer][keyboard] 0.051022ms
+2015-05-07 10:27:34.905 levoApp[1735:113180] [CDVTimer][TotalPluginStartup] 0.183046ms
+2015-05-07 10:27:34.954 levoApp[1735:113180] Resetting plugins due to page load.
+2015-05-07 10:27:35.094 levoApp[1735:113180] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/C238C223-AA37-400C-8C71-7FBCF7592B3A/levoApp.app/www/index.html#/app/playlists
+2015-05-07 10:28:24.542 levoApp[1939:118333] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/D7F94F0C-12A0-427F-A8AF-8DC035817690/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:28:24.600 levoApp[1939:118333] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:28:24.600 levoApp[1939:118333] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:28:24.611 levoApp[1939:118333] Unlimited access to network resources
+2015-05-07 10:28:24.669 levoApp[1939:118333] [CDVTimer][keyboard] 0.042975ms
+2015-05-07 10:28:24.669 levoApp[1939:118333] [CDVTimer][TotalPluginStartup] 0.184000ms
+2015-05-07 10:28:24.716 levoApp[1939:118333] Resetting plugins due to page load.
+2015-05-07 10:28:24.855 levoApp[1939:118333] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/335FC675-AB38-4831-8239-61A4F007CAA1/levoApp.app/www/index.html#/app/playlists
+2015-05-07 10:39:55.490 levoApp[2405:155609] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/3102AE44-6EBA-4548-8542-8D01AA9EF415/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:39:55.543 levoApp[2405:155609] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:39:55.544 levoApp[2405:155609] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:39:55.546 levoApp[2405:155609] Unlimited access to network resources
+2015-05-07 10:39:55.604 levoApp[2405:155609] [CDVTimer][keyboard] 0.048995ms
+2015-05-07 10:39:55.604 levoApp[2405:155609] [CDVTimer][TotalPluginStartup] 0.184000ms
+2015-05-07 10:39:55.652 levoApp[2405:155609] Resetting plugins due to page load.
+2015-05-07 10:39:55.786 levoApp[2405:155609] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/8CB5BD0A-66DF-4947-B534-53202EE6F884/levoApp.app/www/index.html#/app/playlists
+2015-05-07 10:43:24.101 levoApp[2836:187234] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/4FC614AD-4F5E-40B0-B3F4-042DF3625506/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:43:24.165 levoApp[2836:187234] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:43:24.166 levoApp[2836:187234] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:43:24.177 levoApp[2836:187234] Unlimited access to network resources
+2015-05-07 10:43:24.236 levoApp[2836:187234] [CDVTimer][keyboard] 0.041008ms
+2015-05-07 10:43:24.236 levoApp[2836:187234] [CDVTimer][TotalPluginStartup] 0.184000ms
+2015-05-07 10:43:24.287 levoApp[2836:187234] Resetting plugins due to page load.
+2015-05-07 10:43:24.423 levoApp[2836:187234] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/C359EDF6-8515-4FFB-8B71-08506C391274/levoApp.app/www/index.html#/app/login
+2015-05-07 11:29:58.233 levoApp[4983:407320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/9812EED4-6E61-4016-A109-CFD9EC941C0B/Library/Cookies/Cookies.binarycookies
+2015-05-07 11:29:58.313 levoApp[4983:407320] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 11:29:58.313 levoApp[4983:407320] Multi-tasking -> Device: YES, App: YES
+2015-05-07 11:29:58.315 levoApp[4983:407320] Unlimited access to network resources
+2015-05-07 11:29:58.374 levoApp[4983:407320] [CDVTimer][keyboard] 0.042975ms
+2015-05-07 11:29:58.375 levoApp[4983:407320] [CDVTimer][TotalPluginStartup] 0.177026ms
+2015-05-07 11:29:58.411 levoApp[4983:407320] Resetting plugins due to page load.
+2015-05-07 11:29:58.529 levoApp[4983:407320] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/C6376CA6-B74B-47EA-9F9C-E98970FF566A/levoApp.app/www/index.html#/app/activity
+2015-05-07 12:12:46.294 levoApp[5680:557062] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/1384F2E4-45EA-452B-A88C-FB82CDEA5F06/Library/Cookies/Cookies.binarycookies
+2015-05-07 12:12:46.354 levoApp[5680:557062] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 12:12:46.354 levoApp[5680:557062] Multi-tasking -> Device: YES, App: YES
+2015-05-07 12:12:46.363 levoApp[5680:557062] Unlimited access to network resources
+2015-05-07 12:12:46.423 levoApp[5680:557062] [CDVTimer][keyboard] 0.041008ms
+2015-05-07 12:12:46.423 levoApp[5680:557062] [CDVTimer][TotalPluginStartup] 0.165999ms
+2015-05-07 12:12:46.478 levoApp[5680:557062] Resetting plugins due to page load.
+2015-05-07 12:12:46.615 levoApp[5680:557062] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/2591BA60-8D03-4C51-AF33-93C1ED4716B3/levoApp.app/www/index.html#/app/activity
+2015-05-07 14:19:42.625 levoApp[5680:708150] Terminating since there is no system app.
+2015-05-07 15:22:04.511 levoApp[12492:945857] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/F625248D-7201-4F88-9C8E-FC811F4D2754/Library/Cookies/Cookies.binarycookies
+2015-05-07 15:22:04.610 levoApp[12492:945857] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 15:22:04.610 levoApp[12492:945857] Multi-tasking -> Device: YES, App: YES
+2015-05-07 15:22:04.612 levoApp[12492:945857] Unlimited access to network resources
+2015-05-07 15:22:04.673 levoApp[12492:945857] [CDVTimer][keyboard] 0.056028ms
+2015-05-07 15:22:04.673 levoApp[12492:945857] [CDVTimer][TotalPluginStartup] 0.223994ms
+2015-05-07 15:22:04.761 levoApp[12492:945857] Resetting plugins due to page load.
+2015-05-07 15:22:05.206 levoApp[12492:945857] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/030784BB-9C8F-44F1-9EC8-B32BD889FE72/levoApp.app/www/index.html#/app/activity
+2015-05-07 15:24:03.202 levoApp[12702:960872] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/52BBCBE8-BBC9-4458-A585-44FDA7833D62/Library/Cookies/Cookies.binarycookies
+2015-05-07 15:24:03.268 levoApp[12702:960872] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 15:24:03.268 levoApp[12702:960872] Multi-tasking -> Device: YES, App: YES
+2015-05-07 15:24:03.270 levoApp[12702:960872] Unlimited access to network resources
+2015-05-07 15:24:03.332 levoApp[12702:960872] [CDVTimer][keyboard] 0.051022ms
+2015-05-07 15:24:03.332 levoApp[12702:960872] [CDVTimer][TotalPluginStartup] 0.208020ms
+2015-05-07 15:24:03.390 levoApp[12702:960872] Resetting plugins due to page load.
+2015-05-07 15:24:03.542 levoApp[12702:960872] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/A76DE7C7-04B0-4B70-884F-F6C64EBFE8B9/levoApp.app/www/index.html#/app/activity
+2015-05-20 14:48:54.207 levoApp[17376:2950452] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/1733352A-3E00-4B17-8BC4-B8320465F50A/Library/Cookies/Cookies.binarycookies
+2015-05-20 14:48:54.356 levoApp[17376:2950452] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 14:48:54.356 levoApp[17376:2950452] Multi-tasking -> Device: YES, App: YES
+2015-05-20 14:48:54.362 levoApp[17376:2950452] Unlimited access to network resources
+2015-05-20 14:48:54.457 levoApp[17376:2950452] [CDVTimer][keyboard] 0.052989ms
+2015-05-20 14:48:54.457 levoApp[17376:2950452] [CDVTimer][TotalPluginStartup] 0.221968ms
+2015-05-20 14:48:54.788 levoApp[17376:2950452] Resetting plugins due to page load.
+2015-05-20 14:48:56.016 levoApp[17376:2950452] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/2AD9E1E8-80BE-481E-8D06-034770B55BF6/levoApp.app/www/index.html#/app/activity
+2015-06-04 11:27:33.890 levoApp[4789:576982] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/B73CDA34-0AE2-4FEB-A8EE-DF68FDCF716D/Library/Cookies/Cookies.binarycookies
+2015-06-04 11:27:33.968 levoApp[4789:576982] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 11:27:33.968 levoApp[4789:576982] Multi-tasking -> Device: YES, App: YES
+2015-06-04 11:27:33.970 levoApp[4789:576982] Unlimited access to network resources
+2015-06-04 11:27:34.053 levoApp[4789:576982] [CDVTimer][keyboard] 0.041008ms
+2015-06-04 11:27:34.053 levoApp[4789:576982] [CDVTimer][TotalPluginStartup] 0.162005ms
+2015-06-04 11:27:34.090 levoApp[4789:576982] Resetting plugins due to page load.
+2015-06-04 11:27:35.289 levoApp[4789:576982] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/935470B6-F453-424A-8D08-E69EFAB1AFAA/levoApp.app/www/index.html#/app/activity
+2015-06-13 11:58:22.718 levoApp[1857:728090] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Data/Application/F61C820B-6BE2-40D8-8137-F1F3531031D7/Library/Cookies/Cookies.binarycookies
+2015-06-13 11:58:23.036 levoApp[1857:728090] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 11:58:23.036 levoApp[1857:728090] Multi-tasking -> Device: YES, App: YES
+2015-06-13 11:58:23.078 levoApp[1857:728090] Unlimited access to network resources
+2015-06-13 11:58:23.458 levoApp[1857:728090] [CDVTimer][keyboard] 0.043988ms
+2015-06-13 11:58:23.458 levoApp[1857:728090] [CDVTimer][TotalPluginStartup] 0.189960ms
+2015-06-13 11:58:23.812 levoApp[1857:728090] Resetting plugins due to page load.
+2015-06-13 11:58:24.652 levoApp[1857:728090] Finished load of: file:///Users/Levo/Library/Developer/CoreSimulator/Devices/7EC884B4-0378-4884-BA8A-3EB6B821315C/data/Containers/Bundle/Application/A92E237F-B5B1-438E-95B1-AD347F203ED0/levoApp.app/www/index.html#/app/activity
